@@ -32,5 +32,3 @@ Required Scopes for your server-to-server zoom app:
     ```bash
     python zoom_batch_downloader.py
     ```
-
-Code written by Georg Kasmin, Lane Campbell and Aness Zurba.
